@@ -17,6 +17,10 @@ public class Principal {
 		int existencia, menuPrin, subMenu, indice;
 		float precio;
 
+		
+		System.out.println("Nuevo mensaje para mostrar en consola probar github");
+		
+		
 		// variable de tipo objeto
 		Computadoras computadora = null;
 
